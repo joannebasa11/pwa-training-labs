@@ -33,6 +33,10 @@ body {
 }
 
 /* TODO 2 - set the image max-width */
+img {
+  max-width: 100%;
+}
+
 
 /* TODO 4.1 - display the SFO image at 50vw */
 img#sfo {
